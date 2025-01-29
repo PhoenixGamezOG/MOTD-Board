@@ -1,9 +1,9 @@
 # STEPS:
 
-1: Go to this URL: https://pastebin.com
-2: Sign in or Sign up in PasteBin.
-3: Add the script to your game.
-4: Thats it.
+1: Go to this URL: https://pastebin.com 
+2: Sign in or Sign up in PasteBin. 
+3: Add the script to your game. 
+4: Thats it. 
 
 
 
